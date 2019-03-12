@@ -5,7 +5,7 @@ Welcome!
 ## Synopsis
 
 A directory of software development programmmes with links to their respective Wikipedia pages.
-The purpose of this project was to impliment newly developedcoding skills.
+The purpose of this project was to impliment newly developed coding skills.
 
 ### Features
 
