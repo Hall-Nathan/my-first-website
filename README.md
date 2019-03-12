@@ -14,7 +14,7 @@ The purpose of this project was to impliment newly developedcoding skills.
 - Divs containing images and text links
 - Image and text links re-direct browser to external web pages
 
-#### Programmes Used
+### Programmes Used
 
 - Cloud9; integrated development environment (IDE) used to write, run and debug code
 - HTML5; language used to build the website
